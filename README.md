@@ -209,20 +209,19 @@ _Требования_:
 - Функция возвращает итоговое значение аккумулятора после обработки всех элементов массива.
 - Обход массива должен происходить слева направо.
 - После завершения обхода вернуть итоговое значение аккумулятора.
+<img width="918" height="255" alt="image" src="https://github.com/user-attachments/assets/1cb6ead8-37ec-47e2-a1e1-526081d142d5" />
 
-_Пример использования:_
+<img width="851" height="698" alt="image" src="https://github.com/user-attachments/assets/d83a8fd6-a0a1-4544-bc1f-b0ce9c91f32a" />
 
-```javascript
-const numbers = [1, 2, 3, 4, 5];
+<img width="791" height="159" alt="image" src="https://github.com/user-attachments/assets/ce576912-506a-4d60-a5d8-f90a4860e4dd" />
 
-const sum = reduce(numbers, (accumulator, element) => accumulator + element, 0);
 
-console.log(sum); // 15
-```
+<img width="249" height="44" alt="image" src="https://github.com/user-attachments/assets/3d26f245-1ab2-47f8-a5c6-b9db3f52f871" />
 
-## Документирование кода
 
-Код должен быть корректно задокументирован, используя стандарт `JSDoc`. Каждая функция и метод должны быть описаны с указанием их входных параметров, выходных данных и описанием функционала. Комментарии должны быть понятными, четкими и информативными, чтобы обеспечить понимание работы кода другим разработчикам.
+
+
+
 
 ## Контрольные вопросы
 
